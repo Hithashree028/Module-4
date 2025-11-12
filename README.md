@@ -8,4 +8,4 @@ Java program to Demonstrate hierarchical inheritance using Transport, Bus, and T
 ![image link](https://github.com/Hithashree028/Module-4/blob/197063a588a1112a23851220be9953951527a4e7/Screenshot%202025-11-12%20190251.png)
 
 Java program to Override consultation fees in subclasses of Doctor.
-![image link]()
+![image link](https://github.com/Hithashree028/Module-4/blob/795e4b2cf1c980d989e5c8daa85365e89245925a/Screenshot%202025-11-12%20190356.png)
