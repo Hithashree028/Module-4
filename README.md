@@ -16,8 +16,8 @@ Java program to Create a program to demonstrate Multilevel Inheritance using Ani
 Java program to Create a program showing one parent – multiple children.
 ![image link](https://github.com/Hithashree028/Module-4/blob/ae2a3a9204aa322827ee49305cdfcd45d88b1ba0/Screenshot%202025-11-15%20204649.png)
 
-Java program to
-![image link]()
+Java program to Demonstrate multiple inheritance using interfaces.
+![image link](https://github.com/Hithashree028/Module-4/blob/b6dd2392a63b1413c1ace524de6fe8cd6f3eeb59/Screenshot%202025-11-15%20204819.png)
 
 Java program to
 ![image link]()
