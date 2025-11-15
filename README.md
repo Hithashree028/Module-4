@@ -26,8 +26,8 @@ Manager inherits and adds department.
 Java program to Demonstrate overriding using sound() method.
 ![image link](https://github.com/Hithashree028/Module-4/blob/5cc8717c8d724ee0f18097601db519964e96ce85/Screenshot%202025-11-15%20205509.png)
 
-Java program to
-![image link]()
+Java program to Demonstrate runtime polymorphism.
+![image link](https://github.com/Hithashree028/Module-4/blob/f5bc3d2bacf1002e9b057e575d2475e43a614cb8/Screenshot%202025-11-15%20205630.png)
 
 Java program to
 ![image link]()
