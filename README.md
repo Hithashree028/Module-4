@@ -23,8 +23,8 @@ Java program to Create Employee class with name, salary.
 Manager inherits and adds department.
 ![image link](https://github.com/Hithashree028/Module-4/blob/e4dc8d8f9a562985a3e20a2693a99d92a332e633/Screenshot%202025-11-15%20205105.png)
 
-Java program to
-![image link]()
+Java program to Demonstrate overriding using sound() method.
+![image link](https://github.com/Hithashree028/Module-4/blob/5cc8717c8d724ee0f18097601db519964e96ce85/Screenshot%202025-11-15%20205509.png)
 
 Java program to
 ![image link]()
