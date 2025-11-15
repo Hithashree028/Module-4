@@ -13,8 +13,8 @@ Java program to Override consultation fees in subclasses of Doctor.
 Java program to Create a program to demonstrate Multilevel Inheritance using Animal → Dog → Puppy.
 ![image link](https://github.com/Hithashree028/Module-4/blob/2ae21880c2557fdd1b95d97859d42e103948980e/Screenshot%202025-11-15%20204528.png)
 
-Java program to
-![image link]()
+Java program to Create a program showing one parent – multiple children.
+![image link](https://github.com/Hithashree028/Module-4/blob/ae2a3a9204aa322827ee49305cdfcd45d88b1ba0/Screenshot%202025-11-15%20204649.png)
 
 Java program to
 ![image link]()
