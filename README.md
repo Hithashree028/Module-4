@@ -46,7 +46,7 @@ Java program to write a program to override toString(), equals(), hashCode() and
 ![image link](https://github.com/Hithashree028/Module-4/blob/0dc457b3a8daca6ad58c98219b94e94f1ff1958c/Screenshot%202025-11-28%20202156.png)
 
 Java program to write a program with interface Bank and classes SBI, HDFC returning different interest rates.
-![image link]()
+![image link](https://github.com/Hithashree028/Module-4/blob/8d1bab208e531cdc3892e8f97889b63cf67e51ba/Screenshot%202025-11-28%20202336.png)
 
 Java program to write a program with package vehicles containing Vehicle, Bike, Car and test them.
 ![image link]()
