@@ -43,7 +43,7 @@ Java program to write a program using final variable, final method, and final cl
 ![image link](https://github.com/Hithashree028/Module-4/blob/9dc0259f1f1b877da415473c661d27133d82db21/Screenshot%202025-11-28%20202007.png)
 
 Java program to write a program to override toString(), equals(), hashCode() and print class using getClass().
-![image link]()
+![image link](https://github.com/Hithashree028/Module-4/blob/0dc457b3a8daca6ad58c98219b94e94f1ff1958c/Screenshot%202025-11-28%20202156.png)
 
 Java program to write a program with interface Bank and classes SBI, HDFC returning different interest rates.
 ![image link]()
