@@ -52,5 +52,5 @@ Java program to write a program with package vehicles containing Vehicle, Bike, 
 ![image link](https://github.com/Hithashree028/Module-4/blob/c795a82af49c300435b846bde02586124db133bb/Screenshot%202025-11-28%20202937.png)
 
 Java program to write a program using ArrayList to add 5 names, remove 1, print final list.
-![image link]()
+![image link](https://github.com/Hithashree028/Module-4/blob/2fff555dfd2ba1b4e6532845f4f8b41b46214817/Screenshot%202025-11-28%20203117.png)
 
