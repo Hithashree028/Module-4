@@ -29,8 +29,28 @@ Java program to Demonstrate overriding using sound() method.
 Java program to Demonstrate runtime polymorphism.
 ![image link](https://github.com/Hithashree028/Module-4/blob/f5bc3d2bacf1002e9b057e575d2475e43a614cb8/Screenshot%202025-11-15%20205630.png)
 
+
 Java program to Create Payment parent and override pay() in subclasses.
 ![image link](https://github.com/Hithashree028/Module-4/blob/8d152b1877d34365d15ef4a90eb2c4b8af102b8b/Screenshot%202025-11-15%20205757.png)
 
 Java program to Transport → Truck, Ship, Airplane.
 ![image link](https://github.com/Hithashree028/Module-4/blob/86f1c19586255c7a9826d1054e002a54ebba6fc2/Screenshot%202025-11-15%20205905.png)
+
+Java program to to show runtime polymorphism using Transport, Truck, Ship, Airplane.
+![image link]()
+
+Java program to write a program using final variable, final method, and final class.
+![image link]()
+
+Java program to write a program to override toString(), equals(), hashCode() and print class using getClass().
+![image link]()
+
+Java program to write a program with interface Bank and classes SBI, HDFC returning different interest rates.
+![image link]()
+
+Java program to write a program with package vehicles containing Vehicle, Bike, Car and test them.
+![image link]()
+
+Java program to write a program using ArrayList to add 5 names, remove 1, print final list.
+![image link]()
+
